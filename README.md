@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 ![github](ilkrepo.png)
 
 ## Installation
- link gelecek)
+
 Öncelikle projeyi clonelayın.
 
 ```bash
